@@ -1,0 +1,10 @@
+/data/
+/results/
+/.venv/
+/__pycache__/
+*.pyc
+*.log
+.DS_Store
+/spark-warehouse/
+/metastore_db/
+.env
